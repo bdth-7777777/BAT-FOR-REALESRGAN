@@ -41,7 +41,18 @@ REALESRGAN超分工具-脚本版 v4 版本更新日志
 
 软件经过几轮的迭代，已经达到了高度可用的状态。请下载试试看把！
 
+国内网盘下载链接：
 
+通过百度网盘分享的文件：【REALESR…
+链接:https://pan.baidu.com/s/1xYMzLfJHzpUexmROuR6TWg?pwd=1s8h 
+提取码:1s8h
+复制这段内容打开「百度网盘APP 即可获取」
+
+https://www.123pan.com/s/WXt8Vv-POKJH.html
+
+我用蓝奏浏览器分享了[【REALESRGAN超分辨率工具】安装程序V4], 下载链接:https://wwp.lanzoup.com/iHG2K1gwosgd  提取码 : bqnb, 你可以不限速下载哦
+
+复制这段内容后打开天翼云盘手机App，操作更方便哦！链接：https://cloud.189.cn/t/imiiy2aYnYnu（访问码：nta9）
 
 
 
