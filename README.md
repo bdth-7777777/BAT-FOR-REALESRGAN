@@ -38,6 +38,7 @@ REALESRGAN超分工具-脚本版 v4 版本更新日志
 
 ![frame00000018](https://github.com/bdth-7777777/BAT-FOR-REALESRGAN/assets/142554252/8a78c7b8-97bb-4660-96b6-32b8a507d2d2)
 
+这是我的哔哩哔哩主页：【上nm网课呢的个人空间-哔哩哔哩】 https://b23.tv/VnDUKww
 
 软件经过几轮的迭代，已经达到了高度可用的状态。请下载试试看把！
 
